@@ -20,9 +20,10 @@ This project was completed as part of a capstone in collaboration with Aflac. We
 - Generated sentiment word clouds to highlight term frequency and tone.
 
 ## How to Run
-1. Open `Aflac_Sentiment_Analysis.ipynb` in Jupyter Notebook.
+1. Open all ipynb files in Jupyter Notebook.
 2. Ensure all dependencies listed in `requirements.txt` are installed.
 3. Run each cell sequentially. Sample data is included.
+4. You will see the sentiment results created.
 
 
 
